@@ -1,0 +1,83 @@
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.subtitle {
+    font-size: 24px;
+}
+
+.font18 {
+    font-size: 18px;
+}
+
+.noMargins {
+    margin: 0px;
+    padding: 0px;
+}
+
+.margins {
+    margin: 10px;
+}
+
+.dot {
+
+    text-decoration: underline dotted;
+}
+
+.left {
+    left: 20px;
+}
+
+.round {
+    border-radius: 15px;
+
+}
+
+.boxborder {
+    border-style: solid;
+    border-color: orange;
+    border-width: 5px;
+    border-radius: 15px;
+    padding: 10px;
+}
+.boxborderblack {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.center {
+   display: block;
+   margin: auto;
+   width: 50%;
+
+}
+
+.videocenter {
+    display: block;
+    margin: auto;
+    width: 100%;
+ 
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.textblue {
+    color: lightblue;
+}
+
+.italics {
+    font-style: italic;
+}
+
+a:hover {
+    color: crimson;
+}
